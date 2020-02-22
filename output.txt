@@ -1,0 +1,179 @@
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 40
+Book name: The Joy Formidable, Author: Erica, Quantity: 70
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 60
+Book name: Altered Reality, Author: Alan, Quantity: 80
+
+You want to issue the following book: Days Gone by Alan
+Book issued successfully
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 39
+Book name: The Joy Formidable, Author: Erica, Quantity: 70
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 60
+Book name: Altered Reality, Author: Alan, Quantity: 80
+
+You want to issue the following book: The Joy Formidable by Erica
+Book issued successfully
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 39
+Book name: The Joy Formidable, Author: Erica, Quantity: 69
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 60
+Book name: Altered Reality, Author: Alan, Quantity: 80
+
+You want to issue the following book: Days Gone by Alan
+Book issued successfully
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 38
+Book name: The Joy Formidable, Author: Erica, Quantity: 69
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 60
+Book name: Altered Reality, Author: Alan, Quantity: 80
+
+You want to issue the following book: The Joy Formidable by Erica
+Book issued successfully
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 38
+Book name: The Joy Formidable, Author: Erica, Quantity: 68
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 60
+Book name: Altered Reality, Author: Alan, Quantity: 80
+
+You want to issue the following book: Live Another Day by Riva
+Book issued successfully
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 38
+Book name: The Joy Formidable, Author: Erica, Quantity: 68
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 59
+Book name: Altered Reality, Author: Alan, Quantity: 80
+
+You want to issue the following book: Altered Reality by Alan
+Book issue limit reached
+
+You deposited the book: Days Gone by Alan
+Your delay fine is: rs.41
+
+You deposited the book: Days Gone by Alan
+Your delay fine is: rs.10
+
+You deposited the book: The Joy Formidable by Erica
+All clear
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 40
+Book name: The Joy Formidable, Author: Erica, Quantity: 69
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 59
+Book name: Altered Reality, Author: Alan, Quantity: 80
+
+You want to issue the following book: Live Another Day by Riva
+Book issued successfully
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 40
+Book name: The Joy Formidable, Author: Erica, Quantity: 69
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 58
+Book name: Altered Reality, Author: Alan, Quantity: 80
+
+You want to issue the following book: Altered Reality by Alan
+Book issued successfully
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 40
+Book name: The Joy Formidable, Author: Erica, Quantity: 69
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 58
+Book name: Altered Reality, Author: Alan, Quantity: 79
+
+You want to issue the following book: Altered Reality by Alan
+Book issued successfully
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 40
+Book name: The Joy Formidable, Author: Erica, Quantity: 69
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 58
+Book name: Altered Reality, Author: Alan, Quantity: 78
+
+You want to issue the following book: Live Another Day by Riva
+Book issue limit reached
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 40
+Book name: The Joy Formidable, Author: Erica, Quantity: 69
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 58
+Book name: Altered Reality, Author: Alan, Quantity: 78
+
+You want to issue the following book: The Mockingjay by Riva
+Book issue limit reached
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 40
+Book name: The Joy Formidable, Author: Erica, Quantity: 69
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 58
+Book name: Altered Reality, Author: Alan, Quantity: 78
+
+You want to issue the following book: The Mockingjay by Riva
+Book issue limit reached
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 40
+Book name: The Joy Formidable, Author: Erica, Quantity: 69
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 58
+Book name: Altered Reality, Author: Alan, Quantity: 78
+
+You want to issue the following book: Worlds Apart by Mark
+Book issue limit reached
+
+You deposited the book: Days Gone by Alan
+All clear
+
+You deposited the book: The Joy Formidable by Erica
+Your delay fine is: rs.10
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 41
+Book name: The Joy Formidable, Author: Erica, Quantity: 70
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 58
+Book name: Altered Reality, Author: Alan, Quantity: 78
+
+You want to issue the following book: Live Another Day by Riva
+Book issued successfully
+
+List of available books: 
+Book name: Worlds Apart, Author: Mark, Quantity: 50
+Book name: Days Gone, Author: Alan, Quantity: 41
+Book name: The Joy Formidable, Author: Erica, Quantity: 70
+Book name: The Mockingjay, Author: Riva, Quantity: 100
+Book name: Live Another Day, Author: Riva, Quantity: 57
+Book name: Altered Reality, Author: Alan, Quantity: 78
+
+You want to issue the following book: Altered Reality by Alan
+Book issued successfully
